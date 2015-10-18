@@ -10,7 +10,7 @@ html {
 }
 body {
   background-size: cover;
-  background-image: url(../img/1.png);
+  background-image: url(../img/1.jpeg);
   background-color: #fafafa;
   background-attachment: fixed;
   font-family: 'Poiret One', cursive;
@@ -36,7 +36,7 @@ a:hover {
   color: #E0E0E0 !important;
 }
 #page {
-  background-image: url(../img/2.png);
+  background-image: url(../img/2.jpeg);
   background-size: cover;
   display: scroll;
   }
@@ -116,7 +116,7 @@ text-shadow:0 0 4px;
 .header-site {
   position: relative;
   opacity: 1;
-  background: url(../img/3.png) repeat;
+  background: url(../img/3.jpeg) repeat;
   background-size: cover;
   padding-left: 15px;
   padding-right: 15px;
